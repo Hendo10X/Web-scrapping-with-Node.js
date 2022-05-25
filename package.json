@@ -1,0 +1,16 @@
+{
+  "name": "webb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webb.js",
+  "scripts": {
+    "start":  "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
+     }
+}
